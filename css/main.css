@@ -234,6 +234,7 @@ a {
 }
 .navigation__link:hover,
 .navigation__link:focus {
+  text-decoration: none;
   border-bottom: 1px solid rgba(225, 168, 64, 1);
 }
 .header.is-open {
